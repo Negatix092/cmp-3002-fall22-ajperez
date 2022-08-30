@@ -5,4 +5,4 @@ def Sum(n):
 		suma = suma + num
 	print(suma)
 
-Sum(10)
+Sum(100)
