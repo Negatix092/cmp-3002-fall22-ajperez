@@ -1,0 +1,49 @@
+A Rock			X		1
+B Paper			Y		2
+C Scissors		Z		3
+
+Lost 					0
+Draw					3
+Won						6
+
+A vs X 					1 vs 1						Draw			3 
+A vs Y 					1 vs 2						Won				6
+A vs Z 					1 vs 3						Lost			0
+
+B vs X 					2 vs 1 						Lost			0
+B vs Y					2 vs 2						Draw			3
+B vs Z 					2 vs 3 						Won				6
+
+C vs X 					3 vs 1 						Won				6
+C vs Y 					3 vs 2 			 			Lost			0
+C vs Z 					3 vs 3 			 			Draw			3
+
+
+
+SECOND PART
+
+A ROCK 		1			 2 PAPER X LOSE		0
+B PAPER		2			 2 PAPER Y DRAW		3
+C SCISSORS	3			 1 ROCK  Z WIN		6
+
+X = 1 LOSE 0
+
+A ROCK 1 - SCISSORS 3 - SCORE 3
+B PAPER 2 - ROCK 1 - SCORE 1
+C SCISSORS 3 - PAPER 2 - SCORE 2
+
+Y = 2 DRAW 3
+
+A ROCK 1 - ROCK 1 - SCORE 1
+B PAPER 2 - PAPER 2 - SCORE 2
+C SCISSORS 3 - SCISSORS 3 - SCORE 3
+
+Z = 3 WIN 6
+
+A ROCK 1 - PAPER 2 - SCORE 2
+B PAPER 2 - SCISSORS 3 - SCORE 3
+C SCISSORS 3 - ROCK 1 - SCORE 1
+
+
+
+
